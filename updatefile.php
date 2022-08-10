@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>LEARNING GIT how to create a branch </h1>
+    <p> Learning git is not easy, very hard to learn, you need a lot of concentration </p>
     
 </body>
 </html>
